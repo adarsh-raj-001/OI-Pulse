@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OI Pulse
 
 Live NIFTY / SENSEX open-interest tracker: OI change at the at-the-money
@@ -99,3 +100,6 @@ interval while a move stays above threshold (default 10 min).
   **per unique underlying+expiry** — NIFTY and SENSEX are polled in
   parallel each cycle since they're separate buckets, not shared.
 - Expiry is auto-selected as the nearest available for each symbol.
+=======
+# OI-Pulse
+>>>>>>> main
