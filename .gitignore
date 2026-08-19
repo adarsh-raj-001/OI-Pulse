@@ -2,3 +2,4 @@ backend/.env
 backend/node_modules/
 backend/data/subscriptions.json
 .DS_Store
+/backend/**
